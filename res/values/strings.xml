@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TestWM</string>
+    <string name="stop">Stop</string>
+    <string name="text">Solarex</string>
+    <string name="start">Start</string>
+
+</resources>
